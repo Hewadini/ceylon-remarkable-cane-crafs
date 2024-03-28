@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+  <head>
+       <title> CANE CARAFS </title>
+  </head>
+  <body bgcolor=yellow> 
+   <h1><center><font color:red size:72> INTRODUCTION TO CANE CRAFTS</font></center></h1><br><br><br><br><br><br><br>
+  
+   <p1><font size:26>Strips of bamboo and various types of canes are extensively used to manufacture different utility and decorative items. Mats, lamp shades, trays, baskets are weaved and knitted by the skilled hands of the artisans. Cane and bamboo can also be converted into strong and unique furniture, which are very popular now.	
+  </font></p1><br><br>
+  <p2><font size:26>The furniture created by cane and bamboo features lucidness and comfort due to aesthetic beauty and appeal. It covers the wide expanded land rich in natural resources such as Assam, Sikkim, Nagaland, Arunachal Pradesh etc. The history of this handicraft can be traced to the 2nd century AD.</font></p2>
+  </body>
+</html>  
