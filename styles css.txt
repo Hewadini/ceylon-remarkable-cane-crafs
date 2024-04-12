@@ -1,0 +1,17 @@
+#productTable {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+
+#productTable th {
+    border: 5px solid black;
+    padding: 8px;
+    text-align: center;
+	background-color: #f2f2f2;
+}
+#productTable td {
+    border: 5px solid black;
+    padding: 8px;
+    text-align: left;
+}
